@@ -27,12 +27,12 @@ The Iris dataset consists of measurements of various characteristics of iris flo
 ## Summarizing the report findings, here are the results of the analysis :
 
 ## LINE PLOT
-Plot a line graph showing the sepal length of the three species of Iris flowers.Use different colors to represent each species.
+- Plot a line graph showing the sepal length of the three species of Iris flowers. Use different colors to represent each species.
 ![image](https://github.com/user-attachments/assets/c954d024-0463-41f2-8232-f49a2d8facb9)
 
 
 ## Scatter Plot
-- Create a scatter plot showing the relationship between the petal length and petal width.Use different colors to represent each species
+- Create a scatter plot showing the relationship between the petal length and petal width. Use different colors to represent each species
 ![image](https://github.com/user-attachments/assets/a59ae605-31cd-4f73-8a84-81ccb35b4e57)
 
 
